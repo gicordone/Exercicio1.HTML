@@ -1,0 +1,99 @@
+body {
+    background-color:#FFFFFF;
+    opacity: 1;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 800px;
+}
+
+.imagem {
+    left: 22px;
+    width: 750px;
+    height: 350px;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.titulo {
+    left: 21px;
+    text-align: left;
+    font-size: 125px 125px;
+    letter-spacing: 0px;
+    line-height: 60px;
+    color: #FFB300;
+    opacity: 1;
+}
+
+.autora {
+    left: 20px;
+    width: 800px;
+    text-align: right;
+    font-size: 21px/34px;
+    color: #000000;
+    opacity: 1;
+}
+
+.descrição {
+    left: 21px;
+    text-align:justify;
+    font-size: 21px/34px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.preparo {
+    font-size: 18px;
+    left: 21px;
+    text-align: left;
+    width: 302px ;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.rendimento {
+    font-size:18px;
+    left: 21px;
+    width: 302px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.ingredientes__titulo {
+    color:#FFB300;
+    font-size: 30px;
+}
+
+.preparo__titulo {
+    color: #FFB300;
+    font-size: 30px;
+}
+
+.video__receita {
+    color: #FFB300;
+    font-size: 30px;
+}
+
+.video {
+    left: 21px;
+    width: 150px;
+    height: 42px;
+    text-align: left;
+    color: #FFB300;
+    opacity: 1;
+}
+
+.voltar {
+    left: 22px;
+    width: 263px;
+    height: 25px;
+    text-align: left;
+    text-decoration: underline;
+    font-size: 21px/25px;
+    letter-spacing: 0px;
+    color: #0037B3;
+    text-transform: uppercase;
+    opacity: 1;
+}
